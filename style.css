@@ -1,0 +1,76 @@
+#col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: inherit;
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    border-radius: 20%;
+    box-shadow:  0 0 15px 5px;
+    position: absolute;
+    left: 550px;
+}
+
+button {
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 15px;
+    margin-top: 300px;
+    position: relative;
+    left: 350px;
+}
+
+.red:hover {
+    font-size: 25px;
+    background-color: red;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px red;
+}
+.blue:hover {
+    font-size: 25px;
+    background-color: blue;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px blue;
+}
+.green:hover {
+    font-size: 25px;
+    background-color: green;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px green;
+}
+.yellow:hover {
+    font-size: 25px;
+    background-color: yellow;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px yellow;
+}
+.brown:hover {
+    font-size: 25px;
+    background-color: chocolate;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px chocolate;
+}
+.pink:hover {
+    font-size: 25px;
+    background-color: pink;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px pink;
+}
+.black:hover {
+    font-size: 25px;
+    background-color: black;
+    font-style: oblique;
+    transition: .5s;
+    box-shadow: 0 0 10px 5px black;
+    color: white;
+}
+
